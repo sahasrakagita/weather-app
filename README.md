@@ -30,11 +30,6 @@ This app allows users to search for real-time weather information of any city.
 
 - OpenWeatherMap API
 
----
-
-## 📸 Screenshots
-
-(Add your project screenshot here)
 
 ---
 
